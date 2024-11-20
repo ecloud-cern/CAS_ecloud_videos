@@ -1,0 +1,8 @@
+*Pyecltest.mat
+*.mp4
+*progress.txt
+*DS_Store
+*__pycache__
+*logfile.txt
+*.swp
+*MP_state*
